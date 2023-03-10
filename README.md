@@ -24,7 +24,7 @@ Agora que você tem uma aplicação Full Stack, faça o deploy de ambas na mesma
 - Caso você já tenha criado uma instância durante a aula, aproveite ela.<br>
 - Caso você tenha decidido não cadastrar uma conta na AWS por conta das cobranças automáticas, faça novamente o deploy através do Surge para o front e Render para o back.
 
-## Dicas
+## Dicas para o deploy de dois apps em uma única instância
 
 ### Faça tudo rodar localmente na máquina virtual
 É só abrir dois terminais diferentes, um para executar o front na porta 3000 e outro para o back na porta 3003.
