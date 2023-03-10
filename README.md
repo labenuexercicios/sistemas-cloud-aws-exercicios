@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Hoje você aprendeu como deployar aplicações através da EC2, um serviço IaaS. Chegou a hora de praticar! <br>
+Hoje você aprendeu como deployar aplicações através da EC2, um serviço IaaS. Chegou a hora de praticar! <br><br>
 Você pode reaproveitar o código feito do exercício pós-aula anterior (Deploy), mas recomendamos praticar o setup completo!
 
 ### Exercício 1
