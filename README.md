@@ -2,7 +2,8 @@
 
 ## Enunciado
 
-Hoje você aprendeu como deployar aplicações através de um serviço IaaS. Chegou a hora de praticar!
+Hoje você aprendeu como deployar aplicações através de um serviço IaaS. Chegou a hora de praticar! <br>
+Você pode reaproveitar o código feito anteriormente (React e API), mas recomendamos praticar o setup completo!
 
 ### Exercício 1
 
@@ -19,9 +20,14 @@ Dica: cards são componentes naturalmente simples e não necessitam de muita est
 
 ### Exercício 3
 
-Agora que você tem uma aplicação Full Stack, faça o deploy completo.<br>
+Agora que você tem uma aplicação Full Stack, faça o deploy de ambas na mesma instância na EC2.<br>
+Caso você já tenha criado uma instância durante a aula, aproveite ela.<br>
+<br>
+
+Caso você optou por não cadastrar uma conta na AWS por conta do cartão de crédito, faça novamente o deploy através do Surge para o front e Render para o back.
 
 ## Dicas
+
 ### Faça tudo rodar localmente na máquina virtual
 É só abrir dois terminais diferentes, um para executar o front na porta 3000 e outro para o back na porta 3003.
 
