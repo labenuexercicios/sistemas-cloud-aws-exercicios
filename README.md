@@ -21,8 +21,8 @@ Dica: cards são componentes naturalmente simples e não necessitam de muita est
 ### Exercício 3
 
 Agora que você tem uma aplicação Full Stack, faça o deploy de ambas na mesma instância da EC2.<br>
-Caso você já tenha criado uma instância durante a aula, aproveite ela.<br>
-Caso você optou por não cadastrar uma conta na AWS por conta do cartão de crédito, faça novamente o deploy através do Surge para o front e Render para o back.
+- Caso você já tenha criado uma instância durante a aula, aproveite ela.<br>
+- Caso você optou por não cadastrar uma conta na AWS por conta do cartão de crédito, faça novamente o deploy através do Surge para o front e Render para o back.
 
 ## Dicas
 
