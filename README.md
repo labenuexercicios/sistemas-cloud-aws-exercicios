@@ -2,8 +2,8 @@
 
 ## Enunciado
 
-Hoje você aprendeu como deployar aplicações através de um serviço IaaS. Chegou a hora de praticar! <br>
-Você pode reaproveitar o código feito anteriormente (React e API), mas recomendamos praticar o setup completo!
+Hoje você aprendeu como deployar aplicações através da EC2, um serviço IaaS. Chegou a hora de praticar! <br>
+Você pode reaproveitar o código feito do exercício pós-aula anterior (Deploy), mas recomendamos praticar o setup completo!
 
 ### Exercício 1
 
@@ -20,7 +20,7 @@ Dica: cards são componentes naturalmente simples e não necessitam de muita est
 
 ### Exercício 3
 
-Agora que você tem uma aplicação Full Stack, faça o deploy de ambas na mesma instância na EC2.<br>
+Agora que você tem uma aplicação Full Stack, faça o deploy de ambas na mesma instância da EC2.<br>
 Caso você já tenha criado uma instância durante a aula, aproveite ela.<br>
 <br>
 
