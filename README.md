@@ -1,5 +1,8 @@
 # Deploy - Sistemas Cloud e AWS
 
+## Antes de começar
+Esse exercício é opcional. Caso prefira não criar uma conta na AWS, use o tempo livre para revisar outros conteúdos ou focar no projeto.
+
 ## Enunciado
 
 Hoje você aprendeu como deployar aplicações através da EC2, um serviço IaaS. Chegou a hora de praticar! <br><br>
